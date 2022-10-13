@@ -4,3 +4,5 @@
 $ git submodule add https://github.com/dev-LP-Manin/modul_test.git modul
 
 Изменения в проекте
+
+Изменения в новой ветке
